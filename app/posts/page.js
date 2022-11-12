@@ -1,3 +1,3 @@
-export default function Blog(){
-    return <div>Blog</div>
+export default function Posts(){
+    return <div>Select post:</div>
 }
